@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\bin\Debug\EstructurasDeDesicion.exe.config
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\bin\Debug\EstructurasDeDesicion.exe
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\bin\Debug\EstructurasDeDesicion.pdb
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\obj\Debug\EstructurasDeDesicion.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\obj\Debug\EstructurasDeDesicion.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\obj\Debug\EstructurasDeDesicion.exe
+D:\prog3\Proyectos\Programacion-III\EstructurasDeDesicion\EstructurasDeDesicion\obj\Debug\EstructurasDeDesicion.pdb
