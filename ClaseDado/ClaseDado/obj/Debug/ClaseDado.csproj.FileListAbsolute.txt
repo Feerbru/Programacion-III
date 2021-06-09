@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\bin\Debug\ClaseDado.exe.config
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\bin\Debug\ClaseDado.exe
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\bin\Debug\ClaseDado.pdb
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\obj\Debug\ClaseDado.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\obj\Debug\ClaseDado.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\obj\Debug\ClaseDado.exe
+D:\prog3\Proyectos\Programacion-III\ClaseDado\ClaseDado\obj\Debug\ClaseDado.pdb
