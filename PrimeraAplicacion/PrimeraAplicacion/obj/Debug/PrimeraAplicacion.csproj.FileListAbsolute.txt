@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+D:\prog3\Proyectos\Programacion-III\PrimeraAplicacion\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
