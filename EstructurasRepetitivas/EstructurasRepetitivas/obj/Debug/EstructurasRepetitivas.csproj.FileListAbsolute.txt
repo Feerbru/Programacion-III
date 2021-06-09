@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.exe.config
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.exe
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\bin\Debug\EstructurasRepetitivas.pdb
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.exe
+D:\prog3\Proyectos\Programacion-III\EstructurasRepetitivas\EstructurasRepetitivas\obj\Debug\EstructurasRepetitivas.pdb
