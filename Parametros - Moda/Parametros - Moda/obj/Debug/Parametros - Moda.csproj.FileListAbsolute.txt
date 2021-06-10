@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\bin\Debug\Parametros - Moda.exe.config
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\bin\Debug\Parametros - Moda.exe
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\bin\Debug\Parametros - Moda.pdb
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\obj\Debug\Parametros - Moda.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\obj\Debug\Parametros - Moda.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\obj\Debug\Parametros - Moda.exe
+D:\prog3\Proyectos\Programacion-III\Parametros - Moda\Parametros - Moda\obj\Debug\Parametros - Moda.pdb
