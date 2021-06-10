@@ -1,0 +1,7 @@
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\bin\Debug\ManejoDeFechas.exe.config
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\bin\Debug\ManejoDeFechas.exe
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\bin\Debug\ManejoDeFechas.pdb
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\obj\Debug\ManejoDeFechas.csproj.AssemblyReference.cache
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\obj\Debug\ManejoDeFechas.csproj.CoreCompileInputs.cache
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\obj\Debug\ManejoDeFechas.exe
+D:\prog3\Proyectos\Programacion-III\ManejoDeFechas\ManejoDeFechas\obj\Debug\ManejoDeFechas.pdb
